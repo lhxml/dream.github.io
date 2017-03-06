@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-06T05:14:55.472Z</updated>
+  <updated>2017-03-06T05:37:55.048Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,16 +16,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>first stroy</title>
-    <link href="http://yoursite.com/2017/03/06/first-stroy/"/>
-    <id>http://yoursite.com/2017/03/06/first-stroy/</id>
-    <published>2017-03-06T05:14:55.000Z</published>
-    <updated>2017-03-06T05:14:55.472Z</updated>
+    <title>singleton</title>
+    <link href="http://yoursite.com/2017/03/06/singleton/"/>
+    <id>http://yoursite.com/2017/03/06/singleton/</id>
+    <published>2017-03-06T05:37:55.000Z</published>
+    <updated>2017-03-06T05:37:55.048Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>first stroy</title>
+    <link href="http://yoursite.com/2017/03/06/first-stroy/"/>
+    <id>http://yoursite.com/2017/03/06/first-stroy/</id>
+    <published>2017-03-06T05:14:55.000Z</published>
+    <updated>2017-03-06T05:27:14.090Z</updated>
+    
+    <content type="html"><![CDATA[<p>推模型，拉模型</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;推模型，拉模型&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="观察者模式" scheme="http://yoursite.com/tags/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
