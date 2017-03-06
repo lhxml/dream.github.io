@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-06T05:37:55.048Z</updated>
+  <updated>2017-03-06T05:39:08.481Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,12 +20,14 @@
     <link href="http://yoursite.com/2017/03/06/singleton/"/>
     <id>http://yoursite.com/2017/03/06/singleton/</id>
     <published>2017-03-06T05:37:55.000Z</published>
-    <updated>2017-03-06T05:37:55.048Z</updated>
+    <updated>2017-03-06T05:39:08.481Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="SingleTon" scheme="http://yoursite.com/tags/SingleTon/"/>
     
   </entry>
   
